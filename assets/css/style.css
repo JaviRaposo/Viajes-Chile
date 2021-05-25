@@ -1,0 +1,74 @@
+/* Color de fondo y letra general en body */
+body {
+  background-color: #000000;
+  font-family: 'Oswald', sans-serif;
+}
+/* CSS para navbar */
+#titulo-navbar {
+  font-family: 'Pattaya', sans-serif;
+  font-size: 1.8rem;
+}
+.imagen-navbar {
+  width: 2.5rem;
+}
+nav ul li {
+  font-weight: 300;
+  font-size: 1.3rem;
+}
+/* CSS para header */
+#carousel-header img {
+  height: 40em;
+  margin-top: 4rem;
+}
+/* CSS para sección ¿Quienes somos? */
+#quienesSomos i, .subtitulo  {
+  text-align: center;
+  vertical-align: middle;
+}
+.subtitulo {
+  font-family: 'Pattaya', sans-serif;
+  font-size: 1.7rem;
+  margin-bottom: 0;
+}
+/* CSS para sección Destacados */
+.card-img-top {
+  height: 10rem;
+}
+.card-body h5, .card-body a {
+  font-weight: 400;
+}
+.card-body p {
+  font-weight: 300;
+}
+.centrado {
+  display: inline-block;
+  vertical-align: middle;
+}
+/* CSS para Footer */
+footer a i {
+text-decoration: none;
+fill: #ffffff;
+}
+#imagen-footer {
+  width: 4rem;
+  margin-right: 13rem;
+}
+#horarios {
+  margin-left: 13rem;;
+}
+footer p {
+  font-weight: 300;
+  font-size: 1.5rem;
+  margin-bottom: 0;
+}
+/* CSS para otros en general */
+hr {
+  background-color: #24BBB2;
+}
+.azul {
+  background-color: #24BBB2;
+}
+#quienesSomos h2, #destacados h2, #contacto h2 {
+  font-family: 'Pattaya', sans-serif;
+  font-size: 2.5rem;
+}
