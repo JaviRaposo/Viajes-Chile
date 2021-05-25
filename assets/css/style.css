@@ -40,27 +40,21 @@ nav ul li {
 .card-body p {
   font-weight: 300;
 }
-.centrado {
-  display: inline-block;
-  vertical-align: middle;
-}
 /* CSS para Footer */
 footer a i {
 text-decoration: none;
-fill: #ffffff;
+color: white;
 }
 #imagen-footer {
   width: 4rem;
-  margin-right: 13rem;
-}
-#horarios {
-  margin-left: 13rem;;
+  margin: auto;
 }
 footer p {
   font-weight: 300;
   font-size: 1.5rem;
   margin-bottom: 0;
 }
+
 /* CSS para otros en general */
 hr {
   background-color: #24BBB2;
