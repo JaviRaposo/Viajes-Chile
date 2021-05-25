@@ -3,6 +3,7 @@ body {
   background-color: #000000;
   font-family: 'Oswald', sans-serif;
 }
+
 /* CSS para navbar */
 #titulo-navbar {
   font-family: 'Pattaya', sans-serif;
@@ -15,11 +16,13 @@ nav ul li {
   font-weight: 300;
   font-size: 1.3rem;
 }
+
 /* CSS para header */
 #carousel-header img {
   height: 40em;
   margin-top: 4rem;
 }
+
 /* CSS para sección ¿Quienes somos? */
 #quienesSomos i, .subtitulo  {
   text-align: center;
@@ -30,6 +33,7 @@ nav ul li {
   font-size: 1.7rem;
   margin-bottom: 0;
 }
+
 /* CSS para sección Destacados */
 .card-img-top {
   height: 10rem;
@@ -40,6 +44,7 @@ nav ul li {
 .card-body p {
   font-weight: 300;
 }
+
 /* CSS para Footer */
 footer a i {
 text-decoration: none;

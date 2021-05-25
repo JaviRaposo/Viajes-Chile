@@ -1,4 +1,5 @@
 $(function(){
+// Smooth scroll
   $("a").click(function(event){
     if (this.hash !== ""){
       event.preventDefault();
@@ -11,7 +12,9 @@ $(function(){
     }
   });
 
+ //Tooltips en los botones de la sección de Destacados
   $('[data-toggle="tooltip"]').tooltip();
 
+ // Popover en el botón de la sección footer
   $('[data-toggle="popover"]').popover();
 });
